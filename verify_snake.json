@@ -1,4 +1,4 @@
 {
-  "official_builds": ["0.1.0-abc123", "0.1.1-def456"],
-  "verified_copies": ["0.1.0-linux-packaged"]
+  "official_builds": [],
+  "verified_copies": ["0.1.0-linux-packaged-test"]
 }
