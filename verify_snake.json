@@ -1,4 +1,8 @@
 {
-  "official_builds": [],
-  "verified_copies": ["0.1.0-linux-packaged-test"]
+  "builds": {
+    "0.1.0-linux-packaged-test": "verified"
+  },
+  "online_access": ["0.1.0-linux-packaged-test"],
+  "message": "Testbuild erlaubt kein Online-Feature"
 }
+
