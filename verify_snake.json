@@ -1,6 +1,6 @@
 {
   "builds": {
-    "0.0.1-linuxpackaged": "verified"
+    "0.0.1-linuxpackage": "verified"
   },
   "online_access": ["0.1.0-linux-packaged"],
   "message": "Testbuild erlaubt kein Online-Feature"
